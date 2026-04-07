@@ -23,7 +23,7 @@ Currently working on **APIMikveh**, a REST API with ASP.NET Core, EF Core, JWT a
 
 | Backend | Database | Desktop / Mobile | Tools & other |
 |---|---|---|---|
-| ASP.NET Core · EF Core · JWT · BCrypt · REST APIs | SQL Server · Azure SQL · LINQ · Migrations | WinUI 3 · .NET MAUI · Windows Forms · MVVM | Git · Conventional Commits · Arduino · Blazor |
+| ASP.NET Core · EF Core · JWT · BCrypt · REST APIs | SQL Server · Azure SQL · LINQ · Migrations | WinUI 3 · .NET MAUI · Windows Forms · MVVM | Git · Conventional Commits · Blazor |
 
 ---
 
